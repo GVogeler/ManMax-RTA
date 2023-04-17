@@ -1,25 +1,3 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-        <teiHeader>
-                <fileDesc>
-                        <titleStmt>
-                                <title>Reichstagsakten unter Maximilian I. Band 10.
-                                        Der Reichstag zu Worms 1509. Register</title>
-                        </titleStmt>
-                        <publicationStmt>
-                                <publisher><ref target="https://www.historischekommission-muenchen.de/">Historische Kommission bei der Bayerischen Akademie der Wissenschaften, München</ref></publisher>
-                                <availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA</licence>
-                                </availability>
-                        </publicationStmt>
-                        <sourceDesc>
-                                <bibl>Reichstagsakten Mittlere Reihe. Reichstagsakten unter Maximilian I. Band 10.
-                                        Der Reichstag zu Worms 1509.
-                                        Bearbeitet von Dietmar Heil.
-                                        München 2017. S. 831-874.</bibl>
-                        </sourceDesc>
-                </fileDesc>  
-        </teiHeader>
-        <text>
-                <body>
 <div type="chap" xml:id="rta1509register" prev="rta1509cv" first-page="831" last-page="874">
                 <head>
 <pb xml:id="rta1509p831" facs="rta1509-page-0831.png" n="831"/>Register</head>
@@ -45,7 +23,6 @@
 <item rend="pla">
                         <ref type="geo" n="osm:relation:915486" cRef="lonlat:10.0931765,48.8362705"/>
                         <label xml:id="rta1509_reg0007" n="rta1509_reg0007">Aalen/BW (Alan)</label>
-                        <seg n="multiple"/>
                         <seg n="multiple">
                             <ref target="res/page/rta1509/228" first="228" last="228">228</ref>,  <ref target="res/page/rta1509/370" first="370" last="370">370</ref>.</seg>
                     </item>
@@ -3117,7 +3094,7 @@
                     </item>
 <item rend="per">
                         <label xml:id="rta1509_reg0528" n="rta1509_reg0521">Engel, Wolfgang, Schwäb. Bundesbote</label>
-                        <seg n="multiple">221A.</seg>
+        <seg n="multiple"><ref target="res/notesOnPage/rta1509/221" first="221" last="221">221A</ref>.</seg>
                     </item>
 <item rend="per">
                         <label xml:id="rta1509_reg0530" n="rta1509_reg0523">Engelhart, Klaus, <choice><abbr>bfl.</abbr><expan>bischöflich</expan></choice> Bamberger Bote</label>
@@ -4211,7 +4188,7 @@
                             <ref target="res/page/rta1509/675" first="675" last="675">675</ref>,  <ref target="res/page/rta1509/686" first="686" last="686">686</ref>.</seg>
                     </item>
 	<item rend="per">
-                        <label xml:id="rta1509_reg0722" n="rta1509_reg0713">Gonzaga, Ettore <ref target="res/pages/rta1509/200-203" first="200" last="203">200–203</ref>.</label>
+                        <label xml:id="rta1509_reg0722" n="rta1509_reg0713">Gonzaga, Ettore </label><seg  n="multiple"><ref target="res/pages/rta1509/200-203" first="200" last="203">200–203</ref>.</seg>
                     </item>
 <item rend="per">
                         <label xml:id="rta1509_reg0723" n="rta1509_reg0714"><choice>
@@ -12411,11 +12388,11 @@
                     </item>
 <item rend="ssw">
                         <label xml:id="rta1509_reg2159" n="rta1509_reg2138">Schweizerkrieg/Schwabenkrieg (1499)</label>
-                        <seg n="multiple"/>
+        <seg n="multiple"><ref target="res/notesOnPage/rta1509/656" first="656" last="656">656A</ref>.</seg>
                     </item>
-<item>
-                        <label xml:id="rta1509_reg2160" n="rta1509_reg2139">656A.</label>
-                    </item>
+<!--<item>
+                        <label xml:id="rta1509_reg2160" n="rta1509_reg2139"></label>
+                    </item>-->
 <item rend="per">
                         <label xml:id="rta1509_reg2161" n="rta1509_reg2140">Schwendiner (Swendtner), Hermann</label>
                         <seg n="multiple">
@@ -13120,11 +13097,11 @@
                     </item>
 <item rend="per">
                         <label xml:id="rta1509_reg2284" n="rta1509_reg2261">Steyrer, Michael, Regensburger Ratsherr</label>
-                        <seg n="multiple"/>
+        <seg n="multiple"><ref target="res/page/rta1509/293" first="293" last="293">293</ref>.</seg>
                     </item>
-<item>
+<!--<item>
                         <label xml:id="rta1509_reg2285" n="rta1509_reg2262">293.</label>
-                    </item>
+                    </item>-->
 <item rend="per">
                         <label xml:id="rta1509_reg2286" n="rta1509_reg2263">Stiber, Johannes, Notar, Zweibrückener Kanzler (1584)</label>
                         <seg n="multiple">
@@ -13424,11 +13401,11 @@
                         <ref type="geo" n="osm:relation:3643830" cRef="lonlat:11.9722524,52.5431104"/>
                         <label xml:id="rta1509_reg2336" n="rta1509_reg2313">Tangermünde/ST, <choice><abbr>AO</abbr><expan>Ausstellungsort</expan></choice> (1509)</label>
                         <seg n="multiple">
-                            <ref target="res/page/rta1509/733" first="733" last="733">733</ref>,  <ref target="res/page/rta1509/743" first="743" last="743">743</ref>, </seg>
+                                <ref target="res/page/rta1509/733" first="733" last="733">733</ref>,  <ref target="res/page/rta1509/743" first="743" last="743">743</ref>, <ref target="res/page/rta1509/797" first="797" last="797">797</ref>.</seg>
                     </item>
-<item>
+<!--<item>
                         <label xml:id="rta1509_reg2337" n="rta1509_reg2314">797.</label>
-                    </item>
+                    </item>-->
 <item rend="per">
                         <label xml:id="rta1509_reg2338" n="rta1509_reg2315">Tann, Karl von der, Würzburger Domdekan</label>
                         <seg n="multiple">
@@ -15381,7 +15358,7 @@
                         <label xml:id="rta1509_reg2665" n="rta1509_reg2637">Zollern s. Hohenzollern.</label>
                     </item>
 <item>
-                        <label xml:id="rta1509_reg2668" n="rta1509_reg2640">2<pb xml:id="rta1509p874" facs="rta1509-page-0874.png" n="874"/>Zollner (Zalner) von Rothenstein, Hans, <choice><abbr>bfl.</abbr><expan>bischöflich</expan></choice> Würzburger Marschall</label>
+                        <label xml:id="rta1509_reg2668" n="rta1509_reg2640"><pb xml:id="rta1509p874" facs="rta1509-page-0874.png" n="874"/>Zollner (Zalner) von Rothenstein, Hans, <choice><abbr>bfl.</abbr><expan>bischöflich</expan></choice> Würzburger Marschall</label>
                         <seg n="multiple">
                             <ref target="res/page/rta1509/423" first="423" last="423">423</ref>,  <ref target="res/notesOnPage/rta1509/564" first="564" last="564">564A</ref>.</seg>
                     </item>
@@ -15465,6 +15442,3 @@
                     </item>
                 </list>
             </div>
-                </body>
-        </text>
-</TEI>

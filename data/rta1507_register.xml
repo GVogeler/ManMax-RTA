@@ -1,24 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Reichstagsakten unter Maximilian I. Band 9.
-                    Der Reichstag zu Konstanz 1507. Register</title>
-            </titleStmt>
-            <publicationStmt>
-                <publisher><ref target="https://www.historischekommission-muenchen.de/">Historische Kommission bei der Bayerischen Akademie der Wissenschaften, München</ref></publisher>
-                <availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA</licence>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl>Reichstagsakten Mittlere Reihe. Reichstagsakten unter Maximilian I. Band 9.
-                    Der Reichstag zu Konstanz 1507. Bearbeitet von Dietmar Heil. München 2014. S. 1425-1504.</bibl>
-            </sourceDesc>
-      </fileDesc>  
-    </teiHeader>
-<text>
-<body>
-            <div type="chap" xml:id="rta1507register" prev="rta1507cv"
+<div type="chap" xml:id="rta1507register" prev="rta1507cv"
               first-page="1425" last-page="1504">
                 <head><pb xml:id="rta1507p1425" facs="rta1507-page-1425.png" n="1425"/>Register
                 </head>
@@ -700,8 +680,8 @@
                     </item>
 
                     <item rend="pla">
-                        <ref type="geo" n="osm:62407" cRef="lonlat:10.8986971,48.3668041"/><label xml:id="rta1507_reg0116">Augsburg (Augusta), <choice><abbr>AO</abbr><expan>Ausstellungsort</expan></choice> (1502) <ref target="res/notesOnPage/rta1507/762" first="762" last="762">762A</ref>, (1504)</label>
-                        <seg n="multiple">
+                        <ref type="geo" n="osm:62407" cRef="lonlat:10.8986971,48.3668041"/><label xml:id="rta1507_reg0116">Augsburg (Augusta), <choice><abbr>AO</abbr><expan>Ausstellungsort</expan></choice> (1502)</label>
+                        <seg n="multiple"> <ref target="res/notesOnPage/rta1507/762" first="762" last="762">762A</ref>, (1504)
                             <ref target="res/notesOnPage/rta1507/208" first="208" last="208">208A</ref>, <ref target="res/notesOnPage/rta1507/1350" first="1350" last="1350">1350A</ref>, (1505)</seg>
                         <seg n="multiple">
                             <ref target="res/notesOnPage/rta1507/738" first="738" last="738">738A</ref>, (1506)</seg>
@@ -1328,7 +1308,7 @@
 
                     <item><label xml:id="rta1507_reg0205"><choice>
                                 <reg n="1">Basel/Schweiz, </reg>
-                                <orig n="lbl">– </orig></choice> Konzil (<ref target="res/pages/rta1507/1431-1449"  first="1431" last="1449">1431–1449</ref>)</label>
+                                <orig n="lbl">– </orig></choice> Konzil (1431–1449)</label>
                         <seg n="multiple">
                             <ref target="res/page/rta1507/1075" first="1075" last="1075">1075</ref>.</seg>
                     </item>
@@ -3396,7 +3376,7 @@
                     <item rend="per">
                         <ref type="gnd" cRef="gnd:11864162X"/><label xml:id="rta1507_reg0533"><choice>
                                 <reg n="1">Burgund (Bergogna, Borgogna, Bourgoingne), </reg>
-                                <orig n="lbl">– </orig></choice> <choice><abbr>Hg.</abbr><expan>Herzog</expan></choice> Philipp der Schöne, <choice><abbr>Kg.</abbr><expan>König</expan></choice> von Kastilien, Sohn <choice><abbr>Kg.</abbr><expan>König</expan></choice> Maximilians (gest. <ref target="res/page/rta1507/25" first="25" last="25">25</ref>.9.1506)</label>
+                                <orig n="lbl">– </orig></choice> <choice><abbr>Hg.</abbr><expan>Herzog</expan></choice> Philipp der Schöne, <choice><abbr>Kg.</abbr><expan>König</expan></choice> von Kastilien, Sohn <choice><abbr>Kg.</abbr><expan>König</expan></choice> Maximilians (gest. 25.9.1506)</label>
                         <seg n="multiple">
                             <ref target="res/page/rta1507/71" first="71" last="71">71</ref>, <ref target="res/page/rta1507/73" first="73" last="73">73</ref>, <ref target="res/page/rta1507/92" first="92" last="92">92</ref>, <ref target="res/notesOnPage/rta1507/93" first="93" last="93">93A</ref>, <ref target="res/pages/rta1507/94-95" first="94" last="95">94 f.</ref>, <ref target="res/pages/rta1507/97-100" first="97" last="100">97–100</ref>, <ref target="res/notesOnPage/rta1507/101" first="101" last="101">101A</ref>, <ref target="res/pages/rta1507/105-106" first="105" last="106">105 f.</ref>, <ref target="res/pages/rta1507/110-112" first="110" last="112">110–112</ref>, <ref target="res/page/rta1507/116" first="116" last="116">116</ref>, <ref target="res/page/rta1507/119" first="119" last="119">119</ref>, <ref target="res/page/rta1507/122" first="122" last="122">122</ref>, <ref target="res/page/rta1507/134" first="134" last="134">134</ref>, <ref target="res/page/rta1507/140" first="140" last="140">140</ref>, <ref target="res/page/rta1507/142" first="142" last="142">142</ref>, <ref target="res/page/rta1507/147" first="147" last="147">147</ref>, <ref target="res/page/rta1507/158" first="158" last="158">158</ref>, <ref target="res/pages/rta1507/160-161" first="160" last="161">160 f.</ref>, <ref target="res/page/rta1507/172" first="172" last="172">172</ref>, <ref target="res/notesOnPage/rta1507/193" first="193" last="193">193A</ref>, <ref target="res/page/rta1507/222" first="222" last="222">222</ref>, <ref target="res/notesOnPage/rta1507/223" first="223" last="223">223A</ref>, <ref target="res/page/rta1507/253" first="253" last="253">253</ref>, <ref target="res/pages/rta1507/266-267" first="266" last="267">266 f.</ref>, <ref target="res/notesOnPage/rta1507/268" first="268" last="268">268A</ref>, <ref target="res/page/rta1507/270" first="270" last="270">270</ref>, <ref target="res/page/rta1507/274" first="274" last="274">274</ref>, <ref target="res/page/rta1507/280" first="280" last="280">280</ref>, <ref target="res/page/rta1507/284" first="284" last="284">284</ref>, <ref target="res/pages/rta1507/286-287" first="286" last="287">286 f.</ref>, <ref target="res/page/rta1507/295" first="295" last="295">295</ref>, <ref target="res/pages/rta1507/302-303" first="302" last="303">302 f.</ref>, <ref target="res/notesOnPage/rta1507/304" first="304" last="304">304A</ref>, <ref target="res/page/rta1507/305" first="305" last="305">305</ref>, <ref target="res/notesOnPage/rta1507/308" first="308" last="308">308A</ref>, <ref target="res/pages/rta1507/322-323" first="322" last="323">322 f.</ref>, <ref target="res/page/rta1507/329" first="329" last="329">329</ref>, <ref target="res/page/rta1507/332" first="332" last="332">332</ref>, <ref target="res/page/rta1507/335" first="335" last="335">335</ref>, <ref target="res/page/rta1507/337" first="337" last="337">337</ref>, <ref target="res/pages/rta1507/341-344" first="341" last="344">341–344</ref>, <ref target="res/page/rta1507/346" first="346" last="346">346</ref>, <ref target="res/pages/rta1507/353-355" first="353" last="355">353–355</ref>, <ref target="res/notesOnPage/rta1507/357" first="357" last="357">357A</ref>, <ref target="res/page/rta1507/363" first="363" last="363">363</ref>, <ref target="res/page/rta1507/471" first="471" last="471">471</ref>, <ref target="res/pages/rta1507/473-474" first="473" last="474">473 f.</ref>, <ref target="res/pages/rta1507/477-478" first="477" last="478">477 f.</ref>, <ref target="res/page/rta1507/567" first="567" last="567">567</ref>, <ref target="res/notesOnPage/rta1507/569" first="569" last="569">569A</ref>, <ref target="res/pages/rta1507/740-741" first="740" last="741">740 f.</ref>, <ref target="res/page/rta1507/748" first="748" last="748">748</ref>, <ref target="res/page/rta1507/755" first="755" last="755">755</ref>, <ref target="res/page/rta1507/757" first="757" last="757">757</ref>, <ref target="res/page/rta1507/761" first="761" last="761">761</ref>, <ref target="res/page/rta1507/764" first="764" last="764">764</ref>, <ref target="res/page/rta1507/906" first="906" last="906">906</ref>, <ref target="res/pages/rta1507/911-912" first="911" last="912">911 f.</ref>, <ref target="res/page/rta1507/917" first="917" last="917">917</ref>, <ref target="res/page/rta1507/924" first="924" last="924">924</ref>, <ref target="res/page/rta1507/958" first="958" last="958">958</ref>, <ref target="res/pages/rta1507/961-962" first="961" last="962">961 f.</ref>, <ref target="res/page/rta1507/966" first="966" last="966">966</ref>, <ref target="res/pages/rta1507/971-972" first="971" last="972">971 f.</ref>, <ref target="res/page/rta1507/1002" first="1002" last="1002">1002</ref>, <ref target="res/page/rta1507/1042" first="1042" last="1042">1042</ref>, <ref target="res/page/rta1507/1062" first="1062" last="1062">1062</ref>, <ref target="res/page/rta1507/1065" first="1065" last="1065">1065</ref>, <ref target="res/pages/rta1507/1076-1077" first="1076" last="1077">1076 f.</ref>, <ref target="res/page/rta1507/1278" first="1278" last="1278">1278</ref>, <ref target="res/page/rta1507/1350" first="1350" last="1350">1350</ref>, <ref target="res/page/rta1507/1383" first="1383" last="1383">1383</ref>.</seg>
                         <seg n="multiple"><choice><abbr>S.</abbr><expan>Siehe</expan></choice> auch Festlichkeiten, Exequien; Reichsbelehnung.</seg>
@@ -3538,7 +3518,7 @@
                                 <orig n="lbl">– </orig></choice> Räte s. Bergen, C.; Courteville, J.; Croy, W.; Luxemburg, J.</label>
                     </item>
 
-                    <item><pb xml:id="rta1507p1435" facs="rta1507-page-1435.png" n="1435"/><label xml:id="rta1507_reg0552">Burgunderkriege (<ref target="res/pages/rta1507/1474-1477"  first="1474" last="1477">1474–1477</ref>)</label>
+                    <item><pb xml:id="rta1507p1435" facs="rta1507-page-1435.png" n="1435"/><label xml:id="rta1507_reg0552">Burgunderkriege (1474–1477)</label>
                         <seg n="multiple">
                             <ref target="res/page/rta1507/170" first="170" last="170">170</ref>, <ref target="res/page/rta1507/445" first="445" last="445">445</ref>, <ref target="res/page/rta1507/447" first="447" last="447">447</ref>, <ref target="res/page/rta1507/1083" first="1083" last="1083">1083</ref>.</seg>
                     </item>
@@ -4972,7 +4952,7 @@
                     <item rend="per">
                         <ref type="gnd" cRef="gnd:124223435"/><label xml:id="rta1507_reg0786"><choice>
                                 <reg n="1">Egloffstein, </reg>
-                                <orig n="lbl">– </orig></choice> <choice><abbr>IUD</abbr><expan>Iuris utriusque doctor</expan></choice> Leonhard von, <choice><abbr>bfl.</abbr><expan>bischöflich</expan></choice> Bamberger Rat und Domscholaster <ref target="res/pages/rta1507/240-242" first="240" last="242">240–242</ref>, <ref target="res/page/rta1507/706" first="706" last="706">706</ref>, <ref target="res/page/rta1507/763" first="763" last="763">763</ref>, <ref target="res/notesOnPage/rta1507/766" first="766" last="766">766A</ref>, <ref target="res/page/rta1507/767" first="767" last="767">767</ref>, <ref target="res/notesOnPage/rta1507/768" first="768" last="768">768A</ref>, <ref target="res/page/rta1507/1106" first="1106" last="1106">1106</ref>, <ref target="res/pages/rta1507/1355-1357" first="1355" last="1357">1355–1357</ref>.</label>
+                                <orig n="lbl">– </orig></choice> <choice><abbr>IUD</abbr><expan>Iuris utriusque doctor</expan></choice> Leonhard von, <choice><abbr>bfl.</abbr><expan>bischöflich</expan></choice> Bamberger Rat und Domscholaster </label><seg n="multiple"><ref target="res/pages/rta1507/240-242" first="240" last="242">240–242</ref>, <ref target="res/page/rta1507/706" first="706" last="706">706</ref>, <ref target="res/page/rta1507/763" first="763" last="763">763</ref>, <ref target="res/notesOnPage/rta1507/766" first="766" last="766">766A</ref>, <ref target="res/page/rta1507/767" first="767" last="767">767</ref>, <ref target="res/notesOnPage/rta1507/768" first="768" last="768">768A</ref>, <ref target="res/page/rta1507/1106" first="1106" last="1106">1106</ref>, <ref target="res/pages/rta1507/1355-1357" first="1355" last="1357">1355–1357</ref>.</seg>
                     </item>
 
                     <item rend="per"><label xml:id="rta1507_reg0787">Egmond (Eckmundt, Egenmud), <choice><abbr>Hh.</abbr><expan>Herren</expan></choice> von, <choice><abbr>Hh.</abbr><expan>Herren</expan></choice> zu Ijsselstein</label>
@@ -5917,7 +5897,7 @@
                     <item rend="pla">
                         <ref type="geo" n="osm:62713" cRef="lonlat:7.0114963,51.4572062"/><label xml:id="rta1507_reg0925"><choice>
                                 <reg n="1">Essen/<choice><abbr>NRW</abbr><expan>Nordrhein-Westfalen</expan></choice>, </reg>
-                                <orig n="lbl">– </orig></choice> Stadt <ref target="res/pages/rta1507/89-91" first="89" last="91">89–91</ref>, <ref target="res/page/rta1507/545" first="545" last="545">545</ref>, <ref target="res/page/rta1507/558" first="558" last="558">558</ref>, <ref target="res/page/rta1507/573" first="573" last="573">573</ref>, <ref target="res/page/rta1507/605" first="605" last="605">605</ref>.</label>
+                                <orig n="lbl">– </orig></choice> Stadt </label><seg n="multiple"><ref target="res/pages/rta1507/89-91" first="89" last="91">89–91</ref>, <ref target="res/page/rta1507/545" first="545" last="545">545</ref>, <ref target="res/page/rta1507/558" first="558" last="558">558</ref>, <ref target="res/page/rta1507/573" first="573" last="573">573</ref>, <ref target="res/page/rta1507/605" first="605" last="605">605</ref>.</seg>
                     </item>
 
                     <item rend="pla">
@@ -7487,7 +7467,7 @@
                             <ref target="res/page/rta1507/75" first="75" last="75">75</ref>, <ref target="res/page/rta1507/94" first="94" last="94">94</ref>, <ref target="res/page/rta1507/113" first="113" last="113">113</ref>, <ref target="res/page/rta1507/122" first="122" last="122">122</ref>, <ref target="res/pages/rta1507/125-126" first="125" last="126">125 f.</ref>, <ref target="res/page/rta1507/128" first="128" last="128">128</ref>, <ref target="res/page/rta1507/252" first="252" last="252">252</ref>, <ref target="res/page/rta1507/259" first="259" last="259">259</ref>, <ref target="res/page/rta1507/266" first="266" last="266">266</ref>, <ref target="res/page/rta1507/270" first="270" last="270">270</ref>, <ref target="res/page/rta1507/274" first="274" last="274">274</ref>, <ref target="res/pages/rta1507/280-281" first="280" last="281">280 f.</ref>, <ref target="res/pages/rta1507/285-287" first="285" last="287">285–287</ref>, <ref target="res/page/rta1507/292" first="292" last="292">292</ref>, <ref target="res/pages/rta1507/297-298" first="297" last="298">297 f.</ref>, <ref target="res/page/rta1507/306" first="306" last="306">306</ref>, <ref target="res/page/rta1507/316" first="316" last="316">316</ref>, <ref target="res/page/rta1507/321" first="321" last="321">321</ref>, <ref target="res/page/rta1507/323" first="323" last="323">323</ref>, <ref target="res/pages/rta1507/328-330" first="328" last="330">328–330</ref>, <ref target="res/page/rta1507/332" first="332" last="332">332</ref>, <ref target="res/page/rta1507/335" first="335" last="335">335</ref>, <ref target="res/page/rta1507/337" first="337" last="337">337</ref>, <pb xml:id="rta1507p1446" facs="rta1507-page-1446.png" n="1446"/><ref target="res/page/rta1507/339" first="339" last="339">339</ref>, <ref target="res/pages/rta1507/343-344" first="343" last="344">343 f.</ref>, <ref target="res/page/rta1507/346" first="346" last="346">346</ref>, <ref target="res/page/rta1507/355" first="355" last="355">355</ref>, <ref target="res/page/rta1507/521" first="521" last="521">521</ref>, <ref target="res/page/rta1507/523" first="523" last="523">523</ref>, <ref target="res/page/rta1507/543" first="543" last="543">543</ref>, <ref target="res/page/rta1507/552" first="552" last="552">552</ref>, <ref target="res/page/rta1507/890" first="890" last="890">890</ref>, <ref target="res/page/rta1507/1036" first="1036" last="1036">1036</ref>, <ref target="res/page/rta1507/1129" first="1129" last="1129">1129</ref>, <ref target="res/page/rta1507/1136" first="1136" last="1136">1136</ref>, <ref target="res/page/rta1507/1351" first="1351" last="1351">1351</ref>.</seg>
                     </item>
 
-    <item><label xml:id="rta1507_reg1167">Geldernkrieg (<ref target="res/pages/rta1507/1479-1483"  first="1479" last="1483">1479–1483</ref>)</label>
+    <item><label xml:id="rta1507_reg1167">Geldernkrieg (1479–1483)</label>
                         <seg n="multiple">
                             <ref target="res/page/rta1507/274" first="274" last="274">274</ref>, <ref target="res/page/rta1507/278" first="278" last="278">278</ref>.</seg>
                     </item>
@@ -7523,7 +7503,7 @@
 
                     <item><label xml:id="rta1507_reg1172"><choice>
                                 <reg n="1">Geldernkrieg (<ref target="res/pages/rta1507/1479-1483"  first="1479" last="1483">1479–1483</ref>), </reg>
-                                <orig n="lbl">– </orig></choice> (<ref target="res/pages/rta1507/1506-1508"  first="1506" last="1508">1506–1508</ref>)</label>
+                                <orig n="lbl">– </orig></choice> (1506–1508)</label>
                         <seg n="multiple">
                             <ref target="res/page/rta1507/92" first="92" last="92">92</ref>, <ref target="res/page/rta1507/94" first="94" last="94">94</ref>, <ref target="res/page/rta1507/98" first="98" last="98">98</ref>, <ref target="res/page/rta1507/106" first="106" last="106">106</ref>, <ref target="res/page/rta1507/110" first="110" last="110">110</ref>, <ref target="res/page/rta1507/228" first="228" last="228">228</ref>, <ref target="res/page/rta1507/231" first="231" last="231">231</ref>, <ref target="res/page/rta1507/247" first="247" last="247">247</ref>, <ref target="res/page/rta1507/274" first="274" last="274">274</ref>, <ref target="res/pages/rta1507/283-284" first="283" last="284">283 f.</ref>, <ref target="res/notesOnPage/rta1507/488" first="488" last="488">488A</ref>, <ref target="res/page/rta1507/627" first="627" last="627">627</ref>, <ref target="res/notesOnPage/rta1507/643" first="643" last="643">643A</ref>, <ref target="res/notesOnPage/rta1507/949" first="949" last="949">949A</ref>, <ref target="res/notesOnPage/rta1507/1131" first="1131" last="1131">1131A</ref>, <ref target="res/pages/rta1507/1143-1144" first="1143" last="1144">1143 f.</ref>, <ref target="res/notesOnPage/rta1507/1145" first="1145" last="1145">1145A</ref>, <ref target="res/page/rta1507/1149" first="1149" last="1149">1149</ref>, <ref target="res/pages/rta1507/1168-1169" first="1168" last="1169">1168 f.</ref>, <ref target="res/page/rta1507/1212" first="1212" last="1212">1212</ref>, <ref target="res/page/rta1507/1232" first="1232" last="1232">1232</ref>, <ref target="res/page/rta1507/1258" first="1258" last="1258">1258</ref>, <ref target="res/page/rta1507/1288" first="1288" last="1288">1288</ref>, <ref target="res/page/rta1507/1303" first="1303" last="1303">1303</ref>, <ref target="res/page/rta1507/1309" first="1309" last="1309">1309</ref>, <ref target="res/notesOnPage/rta1507/1383" first="1383" last="1383">1383A</ref>.</seg>
                     </item>
@@ -7878,8 +7858,8 @@
                     </item>
 
     <item rend="pla"><pb xml:id="rta1507p1447" facs="rta1507-page-1447.png" n="1447"/>
-                        <ref type="geo" n="osm:60687" cRef="lonlat:13.8003048,47.9185855"/><label xml:id="rta1507_reg1229">Gmunden/<choice><abbr>OÖ</abbr><expan>Oberösterreich</expan></choice>
-                            <ref target="res/notesOnPage/rta1507/218" first="218" last="218">218A</ref>.</label>
+                        <ref type="geo" n="osm:60687" cRef="lonlat:13.8003048,47.9185855"/><label xml:id="rta1507_reg1229">Gmunden/<choice><abbr>OÖ</abbr><expan>Oberösterreich</expan></choice></label><seg n="multiple">
+                            <ref target="res/notesOnPage/rta1507/218" first="218" last="218">218A</ref>.</seg>
                     </item>
 
                     <item rend="per">
@@ -8045,8 +8025,8 @@
                     </item>
 
                     <item rend="pla">
-                        <ref type="geo" n="osm:1421453" cRef="lonlat:10.4266284,51.9059936"/><label xml:id="rta1507_reg1257">Goslar/<choice><abbr>Nsa.</abbr><expan>Niedersachsen</expan></choice>
-                            <ref target="res/pages/rta1507/218-221" first="218" last="221">218–221</ref>, <ref target="res/pages/rta1507/232-233"  first="232" last="233">232 f.</ref>, <ref target="res/notesOnPage/rta1507/527" first="527" last="527">527A</ref>, <ref target="res/page/rta1507/539" first="539" last="539">539</ref>, <ref target="res/page/rta1507/551" first="551" last="551">551</ref>, <ref target="res/page/rta1507/564" first="564" last="564">564</ref>, <ref target="res/page/rta1507/574" first="574" last="574">574</ref>, <ref target="res/page/rta1507/586" first="586" last="586">586</ref>, <ref target="res/page/rta1507/758" first="758" last="758">758</ref>, <ref target="res/page/rta1507/761" first="761" last="761">761</ref>, <ref target="res/pages/rta1507/904-908" first="904" last="908">904–908</ref>, <ref target="res/notesOnPage/rta1507/909" first="909" last="909">909A</ref>, <ref target="res/page/rta1507/1101" first="1101" last="1101">1101</ref>, <ref target="res/notesOnPage/rta1507/1128" first="1128" last="1128">1128A</ref>, <ref target="res/notesOnPage/rta1507/1150" first="1150" last="1150">1150A</ref>, <ref target="res/notesOnPage/rta1507/1151" first="1151" last="1151">1151A</ref>, <ref target="res/notesOnPage/rta1507/1168" first="1168" last="1168">1168A</ref>, <ref target="res/notesOnPage/rta1507/1170" first="1170" last="1170">1170A</ref>, <ref target="res/notesOnPage/rta1507/1176" first="1176" last="1176">1176A</ref>, <ref target="res/pages/rta1507/1178-1179"  first="1178" last="1179">1178 f.</ref>, <ref target="res/page/rta1507/1214" first="1214" last="1214">1214</ref>, <ref target="res/page/rta1507/1220" first="1220" last="1220">1220</ref>, <ref target="res/notesOnPage/rta1507/1241" first="1241" last="1241">1241A</ref>, <ref target="res/page/rta1507/1249" first="1249" last="1249">1249</ref>, <ref target="res/page/rta1507/1268" first="1268" last="1268">1268</ref>, <ref target="res/notesOnPage/rta1507/1320" first="1320" last="1320">1320A</ref>, <ref target="res/page/rta1507/1329" first="1329" last="1329">1329</ref>, <ref target="res/pages/rta1507/1384-1385"  first="1384" last="1385">1384 f.</ref></label>
+                        <ref type="geo" n="osm:1421453" cRef="lonlat:10.4266284,51.9059936"/><label xml:id="rta1507_reg1257">Goslar/<choice><abbr>Nsa.</abbr><expan>Niedersachsen</expan></choice></label><seg n="multiple">
+                            <ref target="res/pages/rta1507/218-221" first="218" last="221">218–221</ref>, <ref target="res/pages/rta1507/232-233"  first="232" last="233">232 f.</ref>, <ref target="res/notesOnPage/rta1507/527" first="527" last="527">527A</ref>, <ref target="res/page/rta1507/539" first="539" last="539">539</ref>, <ref target="res/page/rta1507/551" first="551" last="551">551</ref>, <ref target="res/page/rta1507/564" first="564" last="564">564</ref>, <ref target="res/page/rta1507/574" first="574" last="574">574</ref>, <ref target="res/page/rta1507/586" first="586" last="586">586</ref>, <ref target="res/page/rta1507/758" first="758" last="758">758</ref>, <ref target="res/page/rta1507/761" first="761" last="761">761</ref>, <ref target="res/pages/rta1507/904-908" first="904" last="908">904–908</ref>, <ref target="res/notesOnPage/rta1507/909" first="909" last="909">909A</ref>, <ref target="res/page/rta1507/1101" first="1101" last="1101">1101</ref>, <ref target="res/notesOnPage/rta1507/1128" first="1128" last="1128">1128A</ref>, <ref target="res/notesOnPage/rta1507/1150" first="1150" last="1150">1150A</ref>, <ref target="res/notesOnPage/rta1507/1151" first="1151" last="1151">1151A</ref>, <ref target="res/notesOnPage/rta1507/1168" first="1168" last="1168">1168A</ref>, <ref target="res/notesOnPage/rta1507/1170" first="1170" last="1170">1170A</ref>, <ref target="res/notesOnPage/rta1507/1176" first="1176" last="1176">1176A</ref>, <ref target="res/pages/rta1507/1178-1179"  first="1178" last="1179">1178 f.</ref>, <ref target="res/page/rta1507/1214" first="1214" last="1214">1214</ref>, <ref target="res/page/rta1507/1220" first="1220" last="1220">1220</ref>, <ref target="res/notesOnPage/rta1507/1241" first="1241" last="1241">1241A</ref>, <ref target="res/page/rta1507/1249" first="1249" last="1249">1249</ref>, <ref target="res/page/rta1507/1268" first="1268" last="1268">1268</ref>, <ref target="res/notesOnPage/rta1507/1320" first="1320" last="1320">1320A</ref>, <ref target="res/page/rta1507/1329" first="1329" last="1329">1329</ref>, <ref target="res/pages/rta1507/1384-1385"  first="1384" last="1385">1384 f.</ref></seg>
                     </item>
 
                     <item rend="siehe"><label xml:id="rta1507_reg1258"><choice>
@@ -9243,7 +9223,7 @@
 
                     <item><label xml:id="rta1507_reg1451"><choice>
                                 <reg n="1">Heilige Schrift, </reg>
-                                <orig n="lbl">– </orig></choice> Ez (17,<ref target="res/pages/rta1507/19-21"  first="19" last="21">19–21</ref>)</label>
+                                <orig n="lbl">– </orig></choice> Ez (17,19–21)</label>
                         <seg n="multiple">
                             <ref target="res/page/rta1507/356" first="356" last="356">356</ref>.</seg>
                     </item>
@@ -10620,7 +10600,7 @@
                     <item rend="per">
                         <ref type="gnd" cRef="gnd:137701632"/><label xml:id="rta1507_reg1671"><choice>
                                 <reg n="1">Ilsung, </reg>
-                                <orig n="lbl">– </orig></choice> <choice><abbr>Dr.</abbr><expan>Doktor</expan></choice> Sebastian, Augsburger Patrizier, <choice><abbr>bay.</abbr><expan>bayerisch</expan></choice> Rat <ref target="res/pages/rta1507/190-192" first="190" last="192">190–192</ref>.</label>
+                                <orig n="lbl">– </orig></choice> <choice><abbr>Dr.</abbr><expan>Doktor</expan></choice> Sebastian, Augsburger Patrizier, <choice><abbr>bay.</abbr><expan>bayerisch</expan></choice> Rat</label><seg n="multiple"> <ref target="res/pages/rta1507/190-192" first="190" last="192">190–192</ref>.</seg>
                     </item>
 
                     <item rend="per"><label xml:id="rta1507_reg1672">Imber (Ymbern) von Gilgenberg, Hans, <choice><abbr>kgl.</abbr><expan>königlich</expan></choice> Rat</label>
@@ -12051,7 +12031,7 @@
 
                     <item><label xml:id="rta1507_reg1902"><choice>
                                 <reg n="1">Konstanz (Cohstenz, Constanza, Coßnitz, Costens, Costentz, Costinz, Costnitz), </reg>
-                                <orig n="lbl">– </orig></choice> Konzil (<ref target="res/pages/rta1507/1414-1418"  first="1414" last="1418">1414–1418</ref>)</label>
+                                <orig n="lbl">– </orig></choice> Konzil (1414–1418)</label>
                         <seg n="multiple">
                             <ref target="res/page/rta1507/1027" first="1027" last="1027">1027</ref>.</seg>
                     </item>
@@ -14258,8 +14238,8 @@
 
                     <item><label xml:id="rta1507_reg2229"><choice>
                                 <reg n="1">Mainz/<choice><abbr>RPf.</abbr><expan>Rheinland-Pfalz</expan></choice> (Menz), </reg>
-                                <orig n="lbl">– </orig></choice> Domkapitel/Domherren <ref target="res/pages/rta1507/173-176" first="173" last="176">173–176</ref>, <ref target="res/notesOnPage/rta1507/588" first="588" last="588">588A</ref>, <ref target="res/notesOnPage/rta1507/1168" first="1168" last="1168">1168A</ref>.</label>
-                        <seg n="multiple"><choice><abbr>S.</abbr><expan>Siehe</expan></choice> auch Groschlag, B.; Hattstein, J.; Küchenmeister, J.; Langen, O.; Pfalz-Simmern, <choice><abbr>Pfgf.</abbr><expan>Pfalzgraf</expan></choice> F.; Rau v. Holzhausen, A.; Rieneck, T.; Schechingen, U.; Solms-Braunfels, W.; Stockheim, A.; Truchseß v. Pommersfelden, L.; Wittich, I.</seg>
+                                <orig n="lbl">– </orig></choice> Domkapitel/Domherren</label>
+                        <seg n="multiple"> <ref target="res/pages/rta1507/173-176" first="173" last="176">173–176</ref>, <ref target="res/notesOnPage/rta1507/588" first="588" last="588">588A</ref>, <ref target="res/notesOnPage/rta1507/1168" first="1168" last="1168">1168A</ref>.<choice><abbr>S.</abbr><expan>Siehe</expan></choice> auch Groschlag, B.; Hattstein, J.; Küchenmeister, J.; Langen, O.; Pfalz-Simmern, <choice><abbr>Pfgf.</abbr><expan>Pfalzgraf</expan></choice> F.; Rau v. Holzhausen, A.; Rieneck, T.; Schechingen, U.; Solms-Braunfels, W.; Stockheim, A.; Truchseß v. Pommersfelden, L.; Wittich, I.</seg>
                     </item>
 
                     <item rend="siehe"><label xml:id="rta1507_reg2230"><choice>
@@ -15345,7 +15325,7 @@
                                 <reg n="1">Maximilian I., </reg>
                                 <orig n="lbl">– </orig></choice> <choice>
                                 <reg n="2"> Kommissionen/Kommissare, </reg>
-                                <orig n="lbl">– </orig></choice> Landshuter Erbfolgestreit, Taxation (<ref target="res/pages/rta1507/1505-1507"  first="1505" last="1507">1505–1507</ref>)</label><seg n="multiple">
+                                <orig n="lbl">– </orig></choice> Landshuter Erbfolgestreit, Taxation (1505–1507)</label><seg n="multiple">
                             <ref target="res/pages/rta1507/191-193" first="191" last="193">191–193</ref>, <ref target="res/notesOnPage/rta1507/194" first="194" last="194">194A</ref>, <ref target="res/page/rta1507/196" first="196" last="196">196</ref>, <ref target="res/pages/rta1507/198-202" first="198" last="202">198–202</ref>, <ref target="res/page/rta1507/264" first="264" last="264">264</ref>, <ref target="res/notesOnPage/rta1507/504" first="504" last="504">504A</ref>, <ref target="res/pages/rta1507/671-689" first="671" last="689">671–689</ref>, <ref target="res/pages/rta1507/692-707" first="692" last="707">692–707</ref>, <ref target="res/page/rta1507/759" first="759" last="759">759</ref>, <ref target="res/notesOnPage/rta1507/777" first="777" last="777">777A</ref>, <ref target="res/page/rta1507/813" first="813" last="813">813</ref>, <ref target="res/page/rta1507/826" first="826" last="826">826</ref>, <ref target="res/notesOnPage/rta1507/834" first="834" last="834">834A</ref>, <ref target="res/page/rta1507/835" first="835" last="835">835</ref>, <ref target="res/notesOnPage/rta1507/836" first="836" last="836">836A</ref>, <ref target="res/page/rta1507/844" first="844" last="844">844</ref>, <ref target="res/page/rta1507/1072" first="1072" last="1072">1072</ref>, <ref target="res/page/rta1507/1373" first="1373" last="1373">1373</ref>.</seg>
                     </item>
 
@@ -15362,7 +15342,7 @@
                                 <reg n="1">Maximilian I., </reg>
                                 <orig n="lbl">– </orig></choice> <choice>
                                 <reg n="2"> Kommissionen/Kommissare, </reg>
-                                <orig n="lbl">– </orig></choice> Mecklenburg gg. Lübeck (<ref target="res/pages/rta1507/1505-1507"  first="1505" last="1507">1505–1507</ref>)</label>
+                                <orig n="lbl">– </orig></choice> Mecklenburg gg. Lübeck (1505–1507)</label>
                         <seg n="multiple">
                             <ref target="res/pages/rta1507/206-207" first="206" last="207">206 f</ref>.</seg>
                     </item>
@@ -16509,8 +16489,8 @@
                     </item>
 
                     <item rend="pla">
-                        <ref type="geo" n="osm:62428" cRef="lonlat:11.5754716,48.1372897"/><label xml:id="rta1507_reg2572">München/<choice><abbr>Bay.</abbr><expan>Bayern</expan></choice>, <choice><abbr>AO</abbr><expan>Ausstellungsort</expan></choice> (1504) <ref target="res/notesOnPage/rta1507/728" first="728" last="728">728A</ref>, (1507)</label>
-                        <seg n="multiple">
+                        <ref type="geo" n="osm:62428" cRef="lonlat:11.5754716,48.1372897"/><label xml:id="rta1507_reg2572">München/<choice><abbr>Bay.</abbr><expan>Bayern</expan></choice>, <choice><abbr>AO</abbr><expan>Ausstellungsort</expan></choice> (1504)</label>
+                        <seg n="multiple"> <ref target="res/notesOnPage/rta1507/728" first="728" last="728">728A</ref>, (1507)</seg><seg n="multiple">
                             <ref target="res/page/rta1507/206" first="206" last="206">206</ref>, <ref target="res/notesOnPage/rta1507/690" first="690" last="690">690A</ref>, <ref target="res/notesOnPage/rta1507/697" first="697" last="697">697A</ref>, <ref target="res/notesOnPage/rta1507/770" first="770" last="770">770A</ref>, <ref target="res/notesOnPage/rta1507/777" first="777" last="777">777A</ref>, <ref target="res/page/rta1507/828" first="828" last="828">828</ref>, <ref target="res/page/rta1507/834" first="834" last="834">834</ref>, <ref target="res/pages/rta1507/1019-1020" first="1019" last="1020">1019 f.</ref>, <ref target="res/page/rta1507/1158" first="1158" last="1158">1158</ref>, <ref target="res/notesOnPage/rta1507/1159" first="1159" last="1159">1159A</ref>, <ref target="res/page/rta1507/1172" first="1172" last="1172">1172</ref>, (1508)</seg>
                         <seg n="multiple">
                             <ref target="res/notesOnPage/rta1507/690" first="690" last="690">690A</ref>, <ref target="res/notesOnPage/rta1507/1194" first="1194" last="1194">1194A</ref>, <ref target="res/notesOnPage/rta1507/1328" first="1328" last="1328">1328A</ref>, (1564)</seg>
@@ -18355,7 +18335,7 @@
                     </item>
 
                     <item rend="per">
-                        <ref type="gnd" cRef="gnd:129048291"/><label xml:id="rta1507_reg2847">Pasqualigo, <choice><abbr>Dr.</abbr><expan>Doktor</expan></choice> Pietro, venez. Gesandter zum <choice><abbr>röm.</abbr><expan>römisch</expan></choice> <choice><abbr>Kg.</abbr><expan>König</expan></choice> (<ref target="res/pages/rta1507/1505-1507"  first="1505" last="1507">1505–1507</ref>)</label>
+                        <ref type="gnd" cRef="gnd:129048291"/><label xml:id="rta1507_reg2847">Pasqualigo, <choice><abbr>Dr.</abbr><expan>Doktor</expan></choice> Pietro, venez. Gesandter zum <choice><abbr>röm.</abbr><expan>römisch</expan></choice> <choice><abbr>Kg.</abbr><expan>König</expan></choice> (1505–1507)</label>
                         <seg n="multiple">
                             <ref target="res/notesOnPage/rta1507/95" first="95" last="95">95A</ref>, <ref target="res/notesOnPage/rta1507/96" first="96" last="96">96A</ref>, <ref target="res/notesOnPage/rta1507/116" first="116" last="116">116A</ref>, <ref target="res/pages/rta1507/130-139" first="130" last="139">130–139</ref>, <ref target="res/notesOnPage/rta1507/141" first="141" last="141">141A</ref>, <ref target="res/page/rta1507/922" first="922" last="922">922</ref>, <ref target="res/page/rta1507/929" first="929" last="929">929</ref>.</seg>
                     </item>
@@ -20430,7 +20410,7 @@
                             <ref target="res/notesOnPage/rta1507/653" first="653" last="653">653A</ref>, <ref target="res/notesOnPage/rta1507/654" first="654" last="654">654A</ref>, <ref target="res/notesOnPage/rta1507/655" first="655" last="655">655A</ref>.</seg>
                     </item>
 
-                    <item><label xml:id="rta1507_reg3164">Reichsregiment in Nürnberg (<ref target="res/pages/rta1507/1500-1502"  first="1500" last="1502">1500–1502</ref>)</label>
+                    <item><label xml:id="rta1507_reg3164">Reichsregiment in Nürnberg (1500–1502)</label>
                         <seg n="multiple">
                             <ref target="res/page/rta1507/74" first="74" last="74">74</ref>, <ref target="res/notesOnPage/rta1507/347" first="347" last="347">347A</ref>, <ref target="res/notesOnPage/rta1507/361" first="361" last="361">361A</ref>, <ref target="res/notesOnPage/rta1507/632" first="632" last="632">632A</ref>.</seg>
                         <seg n="multiple"><choice><abbr>S.</abbr><expan>Siehe</expan></choice> auch Reichstag, Augsburg (1500)/Nürnberg (Reichsregimentstag 1501).</seg>
@@ -22995,7 +22975,8 @@
                     </item>
 
                     <item rend="pla">
-                        <ref type="geo" n="osm:1682211176" cRef="lonlat:11.587329,47.8556839"/><label xml:id="rta1507_reg3562">Schönegg/<choice><abbr>Bay.</abbr><expan>Bayern</expan></choice> (Schonegk) <ref target="res/pages/rta1507/592-594" first="592" last="594">592–594</ref>.</label>
+                        <ref type="geo" n="osm:1682211176" cRef="lonlat:11.587329,47.8556839"/><label xml:id="rta1507_reg3562">Schönegg/<choice><abbr>Bay.</abbr><expan>Bayern</expan></choice> (Schonegk)</label>
+                        <seg n="multiple"> <ref target="res/pages/rta1507/592-594" first="592" last="594">592–594</ref>.</seg>
                     </item>
 
                     <item><label xml:id="rta1507_reg3563">Schöneich, Caspar von, Mecklenburger Rat</label>
@@ -25642,7 +25623,7 @@
                     <item rend="per">
                         <ref type="gnd" cRef="gnd:118669524"/><label xml:id="rta1507_reg3979"><choice>
                                 <reg n="1">Trient (Drint, Trint), </reg>
-                                <orig n="lbl">– </orig></choice> <choice><abbr>Bf.</abbr><expan>Bischof</expan></choice> Bernhard III. von Cles, Kardinal (<ref target="res/pages/rta1507/1514-1539"  first="1514" last="1539">1514–1539</ref>)</label>
+                                <orig n="lbl">– </orig></choice> <choice><abbr>Bf.</abbr><expan>Bischof</expan></choice> Bernhard III. von Cles, Kardinal (1514–1539)</label>
                         <seg n="multiple">
                             <ref target="res/page/rta1507/1076" first="1076" last="1076">1076</ref>.</seg>
                     </item>
@@ -26054,8 +26035,8 @@
                     <item rend="pla">
                         <ref type="geo" n="osm:62495" cRef="lonlat:9.9910464,48.398312"/><label xml:id="rta1507_reg4041"><choice>
                                 <reg n="1">Ulm/<choice><abbr>BW</abbr><expan>Baden-Württemberg</expan></choice>, </reg>
-                                <orig n="lbl">– </orig></choice> Stadt <ref target="res/pages/rta1507/89-91" first="89" last="91">89–91</ref>, <ref target="res/page/rta1507/123" first="123" last="123">123</ref>, <ref target="res/notesOnPage/rta1507/198" first="198" last="198">198A</ref>, <ref target="res/notesOnPage/rta1507/209" first="209" last="209">209A</ref>, <ref target="res/page/rta1507/212" first="212" last="212">212</ref>, <ref target="res/page/rta1507/235" first="235" last="235">235</ref>, <ref target="res/page/rta1507/265" first="265" last="265">265</ref>, <ref target="res/page/rta1507/287" first="287" last="287">287</ref>, <ref target="res/page/rta1507/539" first="539" last="539">539</ref>, <ref target="res/page/rta1507/549" first="549" last="549">549</ref>, <ref target="res/page/rta1507/563" first="563" last="563">563</ref>, <ref target="res/page/rta1507/573" first="573" last="573">573</ref>, <ref target="res/notesOnPage/rta1507/576" first="576" last="576">576A</ref>, <ref target="res/page/rta1507/577" first="577" last="577">577</ref>, <ref target="res/notesOnPage/rta1507/587" first="587" last="587">587A</ref>, <ref target="res/notesOnPage/rta1507/623" first="623" last="623">623A</ref>, <ref target="res/notesOnPage/rta1507/752" first="752" last="752">752A</ref>, <ref target="res/page/rta1507/1070" first="1070" last="1070">1070</ref>, <ref target="res/page/rta1507/1075" first="1075" last="1075">1075</ref>, <ref target="res/notesOnPage/rta1507/1076" first="1076" last="1076">1076A</ref>, <ref target="res/page/rta1507/1101" first="1101" last="1101">1101</ref>, <ref target="res/notesOnPage/rta1507/1128" first="1128" last="1128">1128A</ref>, <ref target="res/notesOnPage/rta1507/1135" first="1135" last="1135">1135A</ref>, <ref target="res/notesOnPage/rta1507/1164" first="1164" last="1164">1164A</ref>, <ref target="res/page/rta1507/1167" first="1167" last="1167">1167</ref>, <ref target="res/page/rta1507/1174" first="1174" last="1174">1174</ref>, <ref target="res/notesOnPage/rta1507/1175" first="1175" last="1175">1175A</ref>, <ref target="res/page/rta1507/1190" first="1190" last="1190">1190</ref>, <ref target="res/page/rta1507/1215" first="1215" last="1215">1215</ref>, <ref target="res/page/rta1507/1218" first="1218" last="1218">1218</ref>, <ref target="res/pages/rta1507/1221-1224" first="1221" last="1224">1221–1224</ref>, <ref target="res/pages/rta1507/1230-1231"  first="1230" last="1231">1230 f.</ref>, <ref target="res/page/rta1507/1239" first="1239" last="1239">1239</ref>, <ref target="res/page/rta1507/1241" first="1241" last="1241">1241</ref>, <ref target="res/page/rta1507/1251" first="1251" last="1251">1251</ref>, <ref target="res/notesOnPage/rta1507/1271" first="1271" last="1271">1271A</ref>, <ref target="res/page/rta1507/1273" first="1273" last="1273">1273</ref>, <ref target="res/page/rta1507/1329" first="1329" last="1329">1329</ref>.</label>
-                        <seg n="multiple"><choice><abbr>S.</abbr><expan>Siehe</expan></choice> auch Schwäbischer Bund, Bundesstädtetag/Bundestag.</seg>
+                                <orig n="lbl">– </orig></choice> Stadt </label>
+                        <seg n="multiple"><ref target="res/pages/rta1507/89-91" first="89" last="91">89–91</ref>, <ref target="res/page/rta1507/123" first="123" last="123">123</ref>, <ref target="res/notesOnPage/rta1507/198" first="198" last="198">198A</ref>, <ref target="res/notesOnPage/rta1507/209" first="209" last="209">209A</ref>, <ref target="res/page/rta1507/212" first="212" last="212">212</ref>, <ref target="res/page/rta1507/235" first="235" last="235">235</ref>, <ref target="res/page/rta1507/265" first="265" last="265">265</ref>, <ref target="res/page/rta1507/287" first="287" last="287">287</ref>, <ref target="res/page/rta1507/539" first="539" last="539">539</ref>, <ref target="res/page/rta1507/549" first="549" last="549">549</ref>, <ref target="res/page/rta1507/563" first="563" last="563">563</ref>, <ref target="res/page/rta1507/573" first="573" last="573">573</ref>, <ref target="res/notesOnPage/rta1507/576" first="576" last="576">576A</ref>, <ref target="res/page/rta1507/577" first="577" last="577">577</ref>, <ref target="res/notesOnPage/rta1507/587" first="587" last="587">587A</ref>, <ref target="res/notesOnPage/rta1507/623" first="623" last="623">623A</ref>, <ref target="res/notesOnPage/rta1507/752" first="752" last="752">752A</ref>, <ref target="res/page/rta1507/1070" first="1070" last="1070">1070</ref>, <ref target="res/page/rta1507/1075" first="1075" last="1075">1075</ref>, <ref target="res/notesOnPage/rta1507/1076" first="1076" last="1076">1076A</ref>, <ref target="res/page/rta1507/1101" first="1101" last="1101">1101</ref>, <ref target="res/notesOnPage/rta1507/1128" first="1128" last="1128">1128A</ref>, <ref target="res/notesOnPage/rta1507/1135" first="1135" last="1135">1135A</ref>, <ref target="res/notesOnPage/rta1507/1164" first="1164" last="1164">1164A</ref>, <ref target="res/page/rta1507/1167" first="1167" last="1167">1167</ref>, <ref target="res/page/rta1507/1174" first="1174" last="1174">1174</ref>, <ref target="res/notesOnPage/rta1507/1175" first="1175" last="1175">1175A</ref>, <ref target="res/page/rta1507/1190" first="1190" last="1190">1190</ref>, <ref target="res/page/rta1507/1215" first="1215" last="1215">1215</ref>, <ref target="res/page/rta1507/1218" first="1218" last="1218">1218</ref>, <ref target="res/pages/rta1507/1221-1224" first="1221" last="1224">1221–1224</ref>, <ref target="res/pages/rta1507/1230-1231"  first="1230" last="1231">1230 f.</ref>, <ref target="res/page/rta1507/1239" first="1239" last="1239">1239</ref>, <ref target="res/page/rta1507/1241" first="1241" last="1241">1241</ref>, <ref target="res/page/rta1507/1251" first="1251" last="1251">1251</ref>, <ref target="res/notesOnPage/rta1507/1271" first="1271" last="1271">1271A</ref>, <ref target="res/page/rta1507/1273" first="1273" last="1273">1273</ref>, <ref target="res/page/rta1507/1329" first="1329" last="1329">1329</ref>.<choice><abbr>S.</abbr><expan>Siehe</expan></choice> auch Schwäbischer Bund, Bundesstädtetag/Bundestag.</seg>
                     </item>
 
                     <item rend="siehe"><label xml:id="rta1507_reg4042"><choice>
@@ -26461,8 +26442,8 @@
                                 <reg n="1">Venedig (Venissiens, Venetias), </reg>
                                 <orig n="lbl">– </orig></choice> <choice>
                                 <reg n="2"> Republik (signoria), </reg>
-                                <orig n="lbl">– </orig></choice> Doge <ref target="res/pages/rta1507/130-133" first="130" last="133">130–133</ref>, <ref target="res/pages/rta1507/138-141" first="138" last="141">138–141</ref>, <ref target="res/page/rta1507/147" first="147" last="147">147</ref>, <ref target="res/page/rta1507/153" first="153" last="153">153</ref>, <ref target="res/pages/rta1507/155-157" first="155" last="157">155–157</ref>, <ref target="res/notesOnPage/rta1507/160" first="160" last="160">160A</ref>, <ref target="res/pages/rta1507/515-520" first="515" last="520">515–520</ref>, <ref target="res/notesOnPage/rta1507/521" first="521" last="521">521A</ref>, <ref target="res/pages/rta1507/909-1012" first="909" last="1012">909–1012</ref>, <ref target="res/notesOnPage/rta1507/1013" first="1013" last="1013">1013A</ref>, <ref target="res/notesOnPage/rta1507/1065" first="1065" last="1065">1065A</ref>, <ref target="res/page/rta1507/1078" first="1078" last="1078">1078</ref>, <ref target="res/notesOnPage/rta1507/1096" first="1096" last="1096">1096A</ref>, <ref target="res/notesOnPage/rta1507/1126" first="1126" last="1126">1126A</ref>, <ref target="res/notesOnPage/rta1507/1131" first="1131" last="1131">1131A</ref>, <ref target="res/notesOnPage/rta1507/1149" first="1149" last="1149">1149A</ref>, <ref target="res/notesOnPage/rta1507/1157" first="1157" last="1157">1157A</ref>, <ref target="res/page/rta1507/1163" first="1163" last="1163">1163</ref>, <ref target="res/notesOnPage/rta1507/1164" first="1164" last="1164">1164A</ref>, <ref target="res/notesOnPage/rta1507/1166" first="1166" last="1166">1166A</ref>, <ref target="res/notesOnPage/rta1507/1175" first="1175" last="1175">1175A</ref>, <ref target="res/notesOnPage/rta1507/1215" first="1215" last="1215">1215A</ref>, <ref target="res/notesOnPage/rta1507/1218" first="1218" last="1218">1218A</ref>, <ref target="res/page/rta1507/1223" first="1223" last="1223">1223</ref>, <ref target="res/notesOnPage/rta1507/1224" first="1224" last="1224">1224A</ref>, <ref target="res/notesOnPage/rta1507/1284" first="1284" last="1284">1284A</ref>, <ref target="res/notesOnPage/rta1507/1285" first="1285" last="1285">1285A</ref>, <ref target="res/page/rta1507/1286" first="1286" last="1286">1286</ref>, <ref target="res/notesOnPage/rta1507/1288" first="1288" last="1288">1288A</ref>, <ref target="res/notesOnPage/rta1507/1289" first="1289" last="1289">1289A</ref>, <ref target="res/notesOnPage/rta1507/1290" first="1290" last="1290">1290A</ref>, <ref target="res/notesOnPage/rta1507/1298" first="1298" last="1298">1298A</ref>, <ref target="res/notesOnPage/rta1507/1300" first="1300" last="1300">1300A</ref>, <ref target="res/page/rta1507/1302" first="1302" last="1302">1302</ref>, <ref target="res/notesOnPage/rta1507/1306" first="1306" last="1306">1306A</ref>.</label>
-                        <seg n="multiple"><choice><abbr>S.</abbr><expan>Siehe</expan></choice> auch Loredan, <choice><abbr>L.</abbr><expan>Liebden</expan></choice>
+                                <orig n="lbl">– </orig></choice> Doge</label>
+                        <seg n="multiple"> <ref target="res/pages/rta1507/130-133" first="130" last="133">130–133</ref>, <ref target="res/pages/rta1507/138-141" first="138" last="141">138–141</ref>, <ref target="res/page/rta1507/147" first="147" last="147">147</ref>, <ref target="res/page/rta1507/153" first="153" last="153">153</ref>, <ref target="res/pages/rta1507/155-157" first="155" last="157">155–157</ref>, <ref target="res/notesOnPage/rta1507/160" first="160" last="160">160A</ref>, <ref target="res/pages/rta1507/515-520" first="515" last="520">515–520</ref>, <ref target="res/notesOnPage/rta1507/521" first="521" last="521">521A</ref>, <ref target="res/pages/rta1507/909-1012" first="909" last="1012">909–1012</ref>, <ref target="res/notesOnPage/rta1507/1013" first="1013" last="1013">1013A</ref>, <ref target="res/notesOnPage/rta1507/1065" first="1065" last="1065">1065A</ref>, <ref target="res/page/rta1507/1078" first="1078" last="1078">1078</ref>, <ref target="res/notesOnPage/rta1507/1096" first="1096" last="1096">1096A</ref>, <ref target="res/notesOnPage/rta1507/1126" first="1126" last="1126">1126A</ref>, <ref target="res/notesOnPage/rta1507/1131" first="1131" last="1131">1131A</ref>, <ref target="res/notesOnPage/rta1507/1149" first="1149" last="1149">1149A</ref>, <ref target="res/notesOnPage/rta1507/1157" first="1157" last="1157">1157A</ref>, <ref target="res/page/rta1507/1163" first="1163" last="1163">1163</ref>, <ref target="res/notesOnPage/rta1507/1164" first="1164" last="1164">1164A</ref>, <ref target="res/notesOnPage/rta1507/1166" first="1166" last="1166">1166A</ref>, <ref target="res/notesOnPage/rta1507/1175" first="1175" last="1175">1175A</ref>, <ref target="res/notesOnPage/rta1507/1215" first="1215" last="1215">1215A</ref>, <ref target="res/notesOnPage/rta1507/1218" first="1218" last="1218">1218A</ref>, <ref target="res/page/rta1507/1223" first="1223" last="1223">1223</ref>, <ref target="res/notesOnPage/rta1507/1224" first="1224" last="1224">1224A</ref>, <ref target="res/notesOnPage/rta1507/1284" first="1284" last="1284">1284A</ref>, <ref target="res/notesOnPage/rta1507/1285" first="1285" last="1285">1285A</ref>, <ref target="res/page/rta1507/1286" first="1286" last="1286">1286</ref>, <ref target="res/notesOnPage/rta1507/1288" first="1288" last="1288">1288A</ref>, <ref target="res/notesOnPage/rta1507/1289" first="1289" last="1289">1289A</ref>, <ref target="res/notesOnPage/rta1507/1290" first="1290" last="1290">1290A</ref>, <ref target="res/notesOnPage/rta1507/1298" first="1298" last="1298">1298A</ref>, <ref target="res/notesOnPage/rta1507/1300" first="1300" last="1300">1300A</ref>, <ref target="res/page/rta1507/1302" first="1302" last="1302">1302</ref>, <ref target="res/notesOnPage/rta1507/1306" first="1306" last="1306">1306A</ref>.<choice><abbr>S.</abbr><expan>Siehe</expan></choice> auch Loredan, <choice><abbr>L.</abbr><expan>Liebden</expan></choice>
                         </seg>
                     </item>
 
@@ -26477,8 +26458,8 @@
                                 <reg n="1">Venedig (Venissiens, Venetias), </reg>
                                 <orig n="lbl">– </orig></choice> <choice>
                                 <reg n="2"> Republik (signoria), </reg>
-                                <orig n="lbl">– </orig></choice> Gesandte nach Frankreich (<ref target="res/pages/rta1507/1506-1508"  first="1506" last="1508">1506–1508</ref>) <ref target="res/pages/rta1507/921-923" first="921" last="923">921–923</ref>, <ref target="res/notesOnPage/rta1507/1202" first="1202" last="1202">1202A</ref>.</label>
-                        <seg n="multiple"><choice><abbr>S.</abbr><expan>Siehe</expan></choice> auch Condulmer, A.; Mocenigo, A.</seg>
+                                <orig n="lbl">– </orig></choice> Gesandte nach Frankreich (1506–1508)</label><seg n="multiple"> <ref target="res/pages/rta1507/921-923" first="921" last="923">921–923</ref>, <ref target="res/notesOnPage/rta1507/1202" first="1202" last="1202">1202A</ref>.
+                        <choice><abbr>S.</abbr><expan>Siehe</expan></choice> auch Condulmer, A.; Mocenigo, A.</seg>
                     </item>
 
                     <item><label xml:id="rta1507_reg4107"><choice>
@@ -26494,7 +26475,7 @@
                                 <reg n="1">Venedig (Venissiens, Venetias), </reg>
                                 <orig n="lbl">– </orig></choice> <choice>
                                 <reg n="2"> Republik (signoria), </reg>
-                                <orig n="lbl">– </orig></choice> Gesandtschaft zum <choice><abbr>röm.</abbr><expan>römisch</expan></choice> <choice><abbr>Kg.</abbr><expan>König</expan></choice> (<ref target="res/pages/rta1507/1505-1507"  first="1505" last="1507">1505–1507</ref>)</label>
+                                <orig n="lbl">– </orig></choice> Gesandtschaft zum <choice><abbr>röm.</abbr><expan>römisch</expan></choice> <choice><abbr>Kg.</abbr><expan>König</expan></choice> (1505–1507)</label>
                         <seg n="multiple">
                             <ref target="res/notesOnPage/rta1507/95" first="95" last="95">95A</ref>, <ref target="res/notesOnPage/rta1507/130" first="130" last="130">130A</ref>, <ref target="res/page/rta1507/158" first="158" last="158">158</ref>.</seg>
                         <seg n="multiple"><choice><abbr>S.</abbr><expan>Siehe</expan></choice> auch Pasqualigo, P.</seg>
@@ -26538,7 +26519,8 @@
                     </item>
 
                     <item rend="per">
-                        <ref type="gnd" cRef="gnd:1012578496"/><label xml:id="rta1507_reg4114">Venningen, <choice><abbr>IUD</abbr><expan>Iuris utriusque doctor</expan></choice> Florenz von, Kurpfälzer Kanzler <ref target="res/pages/rta1507/177-185" first="177" last="185">177–185</ref>, <ref target="res/page/rta1507/203" first="203" last="203">203</ref>, <ref target="res/page/rta1507/706" first="706" last="706">706</ref>, <ref target="res/page/rta1507/708" first="708" last="708">708</ref>, <ref target="res/pages/rta1507/710-714" first="710" last="714">710–714</ref>, <ref target="res/notesOnPage/rta1507/730" first="730" last="730">730A</ref>, <ref target="res/notesOnPage/rta1507/731" first="731" last="731">731A</ref>, <ref target="res/pages/rta1507/783-821" first="783" last="821">783–821</ref>, <ref target="res/notesOnPage/rta1507/1079" first="1079" last="1079">1079A</ref>, <ref target="res/notesOnPage/rta1507/1346" first="1346" last="1346">1346A</ref>, <ref target="res/pages/rta1507/1347-1348"  first="1347" last="1348">1347 f.</ref>, <ref target="res/pages/rta1507/1350-1354" first="1350" last="1354">1350–1354</ref>.</label>
+                        <ref type="gnd" cRef="gnd:1012578496"/><label xml:id="rta1507_reg4114">Venningen, <choice><abbr>IUD</abbr><expan>Iuris utriusque doctor</expan></choice> Florenz von, Kurpfälzer Kanzler</label>
+                        <seg n="multiple"> <ref target="res/pages/rta1507/177-185" first="177" last="185">177–185</ref>, <ref target="res/page/rta1507/203" first="203" last="203">203</ref>, <ref target="res/page/rta1507/706" first="706" last="706">706</ref>, <ref target="res/page/rta1507/708" first="708" last="708">708</ref>, <ref target="res/pages/rta1507/710-714" first="710" last="714">710–714</ref>, <ref target="res/notesOnPage/rta1507/730" first="730" last="730">730A</ref>, <ref target="res/notesOnPage/rta1507/731" first="731" last="731">731A</ref>, <ref target="res/pages/rta1507/783-821" first="783" last="821">783–821</ref>, <ref target="res/notesOnPage/rta1507/1079" first="1079" last="1079">1079A</ref>, <ref target="res/notesOnPage/rta1507/1346" first="1346" last="1346">1346A</ref>, <ref target="res/pages/rta1507/1347-1348"  first="1347" last="1348">1347 f.</ref>, <ref target="res/pages/rta1507/1350-1354" first="1350" last="1354">1350–1354</ref>.</seg>
                     </item>
 
                     <item><label xml:id="rta1507_reg4115">Verden/<choice><abbr>Nsa.</abbr><expan>Niedersachsen</expan></choice>, <choice><abbr>Bf.</abbr><expan>Bischof</expan></choice>/<choice><abbr>Bm.</abbr><expan>Bistum</expan></choice>
@@ -28760,5 +28742,4 @@
                     </item>
                 </list>
 
-            </div></body></text>
-</TEI>
+            </div>
