@@ -5,4 +5,4 @@ Die hier vorliegenden Registerdateien sind von der Historischen Kommission bei d
 
 Die Historische Kommission stellt sie unter einer [CC-BY-NC-SA-Lizenz](https://creativecommons.org/licenses/by-nc-sa/4.0/) bereit.
 
-Hier werden sie für den [Sonderforschungsbereich "Managaing Maximilian"](https://managing-maximilian.net), gefördert vom [FWF](https://www.fwf.ac.at) (SFB F9200 ManMAX), aufbereitet.
+Hier werden sie für den [Sonderforschungsbereich "Managing Maximilian"](https://managing-maximilian.net), gefördert vom [FWF](https://www.fwf.ac.at) (SFB F9200 ManMAX), aufbereitet.
