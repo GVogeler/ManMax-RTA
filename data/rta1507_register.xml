@@ -1,4 +1,24 @@
-<div type="chap" xml:id="rta1507register" prev="rta1507cv"
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Reichstagsakten unter Maximilian I. Band 9.
+                    Der Reichstag zu Konstanz 1507. Register</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher><ref target="https://www.historischekommission-muenchen.de/">Historische Kommission bei der Bayerischen Akademie der Wissenschaften, München</ref></publisher>
+                <availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Reichstagsakten Mittlere Reihe. Reichstagsakten unter Maximilian I. Band 9.
+                    Der Reichstag zu Konstanz 1507. Bearbeitet von Dietmar Heil. München 2014. S. 1425-1504.</bibl>
+            </sourceDesc>
+        </fileDesc>  
+    </teiHeader>
+    <text>
+        <body>
+            <div type="chap" xml:id="rta1507register" prev="rta1507cv"
               first-page="1425" last-page="1504">
                 <head><pb xml:id="rta1507p1425" facs="rta1507-page-1425.png" n="1425"/>Register
                 </head>
@@ -28743,3 +28763,6 @@
                 </list>
 
             </div>
+        </body>
+    </text>
+</TEI>

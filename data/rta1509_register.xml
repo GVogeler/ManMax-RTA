@@ -1,4 +1,26 @@
-<div type="chap" xml:id="rta1509register" prev="rta1509cv" first-page="831" last-page="874">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title>Reichstagsakten unter Maximilian I. Band 10.
+                                        Der Reichstag zu Worms 1509. Register</title>
+                        </titleStmt>
+                        <publicationStmt>
+                                <publisher><ref target="https://www.historischekommission-muenchen.de/">Historische Kommission bei der Bayerischen Akademie der Wissenschaften, München</ref></publisher>
+                                <availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA</licence>
+                                </availability>
+                        </publicationStmt>
+                        <sourceDesc>
+                                <bibl>Reichstagsakten Mittlere Reihe. Reichstagsakten unter Maximilian I. Band 10.
+                                        Der Reichstag zu Worms 1509.
+                                        Bearbeitet von Dietmar Heil.
+                                        München 2017. S. 831-874.</bibl>
+                        </sourceDesc>
+                </fileDesc>  
+        </teiHeader>
+        <text>
+                <body>
+                        <div type="chap" xml:id="rta1509register" prev="rta1509cv" first-page="831" last-page="874">
                 <head>
 <pb xml:id="rta1509p831" facs="rta1509-page-0831.png" n="831"/>Register</head>
 <p>Die Zahlen beziehen sich auf die Seiten des Bandes, ein nachgestelltes A kennzeichnet die Nennung in der Kommentierung oder im Variantenapparat. Bei Nennung im Haupttext werden Erwähnungen in den Anmerkungen der gleichen Seite nicht eigens aufgeführt. Aufgenommen sind Orts- und Personennamen sowie eine Auswahl von Sachbegriffen. Das Register bringt die deutschen Kaiser unter ihren Namen, Könige, Fürsten und Grafen unter ihren Königreichen bzw. Territorien sowie die Reichsprälaten unter ihren Klöstern. Sachbegriffe werden nach Möglichkeit in größere Einheiten zusammengefasst (z. B. Reichskammergericht). Sofern Ereignisse und Personen keinen unmittelbaren Bezug zum Wormser Reichstag haben, werden zur raschen Orientierung Stich- oder Todesjahr angegeben. Orts-, Familien- und Vornamen sind in der Regel in der heute gebräuchlichen Schreibweise wiedergegeben, in den Akten auftauchende signifikante Abweichungen werden in runden Klammern angemerkt. Die häufig wiederkehrenden Namen und Begriffe Maximilian I. und (Hl. Röm.) Reich findet man nur in Verbindung mit Sachbegriffen, das Attribut „<choice><abbr>ksl.</abbr><expan>kaiserlich</expan></choice>“ bezieht sich jeweils auf Kaiser Maximilian I. Für Orte in Deutschland und in Österreich ist das Bundesland angegeben. Stimmen Aussteller und Ausstellungsort (<choice><abbr>AO</abbr><expan>Ausstellungsort</expan></choice>) überein (z. B. Stadt Worms), so ist Letzterer grundsätzlich nicht erfasst. Bei unsicheren oder mehreren möglichen Zuweisungen steht hinter der Seitenangabe ein Fragezeichen.
@@ -15442,3 +15464,6 @@
                     </item>
                 </list>
             </div>
+                </body>
+        </text>
+</TEI>

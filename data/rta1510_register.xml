@@ -1,4 +1,26 @@
-<div type="chap" xml:id="rta1510register" prev="rta1510cv" first-page="2717" last-page="2825">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Reichstagsakten unter Maximilian I. Band 11.
+                    Die Reichstage zu Augsburg 1510 und Trier/Köln 1512. Register</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher><ref target="https://www.historischekommission-muenchen.de/">Historische Kommission bei der Bayerischen Akademie der Wissenschaften, München</ref></publisher>
+                <availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Reichstagsakten Mittlere Reihe. Reichstagsakten unter Maximilian I. Band 11.
+                    Die Reichstage zu Augsburg 1510 und Trier/Köln 1512.
+                    Bearbeitet von Reinhard Seyboth.
+                    München 2017. S. 2717-2825.</bibl>
+            </sourceDesc>
+        </fileDesc>  
+    </teiHeader>
+    <text>
+        <body>
+            <div type="chap" xml:id="rta1510register" prev="rta1510cv" first-page="2717" last-page="2825">
                 <head>
                     <pb xml:id="rta1510p2717" facs="rta1510-page-2717.png" n="2717"/>Register</head>
 <lb/>
@@ -45355,3 +45377,6 @@ BB = Brandenburg; BW = Baden-Württemberg; IUD =  Iuris utriusque doctor; 
                 <lb/>
                 <lb/>
             </div>
+        </body>
+    </text>
+</TEI>

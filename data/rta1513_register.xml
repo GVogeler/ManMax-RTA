@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div type="chap" n="chap" xml:id="rta1513_regegister" prev="cv" first-page="1431" last-page="1492">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Reichstagsakten Mittlere Reihe. Reichstagsakten unter Maximilian I. Band 12: Die Reichstage zu Worms 1513 und Mainz 1517. Register</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ref target="https://www.historischekommission-muenchen.de/">Historische Kommission bei der Bayerischen Akademie der Wissenschaften, München</ref></publisher>
+        <availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Reichstagsakten Mittlere Reihe. Reichstagsakten unter Maximilian I. Band 12.
+          Die Reichstage zu Worms 1513 und Mainz 1517
+          Bearbeitet von Reinhard Seyboth
+          München 2022. S. 1431-1492.</bibl>
+      </sourceDesc>
+    </fileDesc>  
+  </teiHeader>
+  <text>
+    <body>
+      <div type="chap" n="chap" xml:id="rta1513_regegister" prev="cv" first-page="1431" last-page="1492">
   <head>
     <hi rend="MakeUppercase"><pb n="1431"/>Register</hi>
     <label>register</label>
@@ -3437,3 +3458,6 @@
     </item>
   </list>
 </div>
+    </body>
+  </text>
+</TEI>
